@@ -18,7 +18,7 @@
 *.lighting filter=lfs diff=lfs merge=lfs -text
 *.terrainlayer filter=lfs diff=lfs merge=lfs -text
 *.asset filter=lfs diff=lfs merge=lfs -text
-*.cs filter=lfs diff=lfs merge=lfs -text
+*.cs filter=lfs diff=lfs merge=lfs linguist-language=C# -text
 *.inputactions filter=lfs diff=lfs merge=lfs -text
 *.pdf filter=lfs diff=lfs merge=lfs -text
 *.PNG filter=lfs diff=lfs merge=lfs -text
